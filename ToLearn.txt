@@ -1,0 +1,5 @@
+Learn the following things:
+
+1. Use of GIT, GitHub
+2. Java
+3. API Testing (REST)
