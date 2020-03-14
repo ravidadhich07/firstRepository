@@ -7,3 +7,4 @@ Learn the following things:
 5. Selenium
 6. TestNG
 7. JDBC
+8. Dance
