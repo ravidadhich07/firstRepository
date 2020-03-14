@@ -6,3 +6,4 @@ Learn the following things:
 4. X-Paths
 5. Selenium
 6. TestNG
+7. JDBC
