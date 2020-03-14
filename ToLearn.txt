@@ -3,3 +3,6 @@ Learn the following things:
 1. Use of GIT, GitHub
 2. Java
 3. API Testing (REST)
+4. X-Paths
+5. Selenium
+6. TestNG
